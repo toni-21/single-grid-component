@@ -43,7 +43,7 @@ Below there are two screenshots from the project. The first is the visualization
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://toni-21.github.io/single-grid-component/)
 
 ## My process
 
