@@ -57,7 +57,7 @@ Below there are two screenshots from the project. The first is the visualization
 ### Useful resources
 
 - [StackOverflow](https://stackoverflow.com/) - With this site, I could solve some specific questions. So I also recommend getting a look at this type of forums before asking some questions.
-- [FrontendMentorSlack](https://frontendmentor.slack.com/) - On this platform i was able to get much needed insights abd solutions to this challenge
+- [FrontendMentorSlack](https://frontendmentor.slack.com/) - On this platform i was able to get much needed insights and solutions to this challenge
 
 ## Author
 
