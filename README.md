@@ -42,8 +42,8 @@ Below there are two screenshots from the project. The first is the visualization
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://toni-21.github.io/single-grid-component/)
+- Solution URL: [SOLUTION ON FRONTEND MENTOR](https://www.frontendmentor.io/solutions/single-price-grid-component-using-flexbox-2jSwQYi5H)
+- Live Site URL: [GITHUB PAGES SITE](https://toni-21.github.io/single-grid-component/)
 
 ## My process
 
